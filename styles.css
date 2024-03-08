@@ -4,7 +4,7 @@ body {
     overflow: hidden;
     /* Hide overflow to prevent scrollbar */
     height: 100vh;
-    background-image: url('/assets/b.png');
+    background-image: url('b.png');
 }
 
 .rain {
